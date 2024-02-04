@@ -1,1 +1,1 @@
-# GFG_Problems
+Daily practice code
